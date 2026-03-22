@@ -12,7 +12,7 @@ This project predicts house prices based on area and number of bedrooms using Ma
 
 ## 📊 Model
 - Linear Regression
-- Accuracy: XX%
+- Accuracy: 99%
 
 ## ▶️ How to Run
 1. Install libraries
